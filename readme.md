@@ -7,14 +7,14 @@ Welcome! 👋 **Synthera** is a project focused on generating high-quality synth
 
 ```
 📁 Synthera
-├── generate_data.py # Synthetic tabular data generation using SDV
-├── privacy_preserving.py # Training with differential privacy
-├── bias_detection.py # Fairness and bias analysis
-├── huggingface_integration.py # NLP model benchmarking using Transformers
-├── requirements.txt # Dependency list
+├── generate_data.py # Script to create synthetic tabular data
+├── privacy_preserving.py # Train models using differential privacy techniques
+├── bias_detection.py # Detect fairness issues and evaluate distributional shifts
+├── huggingface_integration.py # Fine-tune Hugging Face models on real and synthetic data
+├── requirements.txt # Required dependencies and libraries
 ├── real_data.csv # Original dataset
 ├── synthetic_data.csv # Generated synthetic dataset
-├── README.md                   # You are here!
+├── README.md # Project documentation
 ```
 
 ## 🔧 Setup Instructions
